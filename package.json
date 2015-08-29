@@ -1,0 +1,14 @@
+{
+  "name": "atom-current",
+  "main": "./lib/atom-current",
+  "version": "0.0.0",
+  "description": "Git and Git Flow integration for atom",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/james1345/atom-current",
+  "engines": {
+    "atom": ">0.61.0"
+  },
+  "dependencies": {
+  }
+}
