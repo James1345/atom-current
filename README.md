@@ -1,4 +1,4 @@
-# atom-current [![Build Status](https://secure.travis-ci.org/james1345/atom-current.png?branch=master)](http://travis-ci.org/james1345/atom-current)
+[![Build Status](https://travis-ci.org/James1345/atom-current.svg?branch=develop)](https://travis-ci.org/James1345/atom-current)
 
 Git and Git Flow integration for atom
 
